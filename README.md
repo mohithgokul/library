@@ -60,11 +60,17 @@ This project uses **SQLite** for persistent storage and implements a **content-b
 
 LibrarySystem/
 │
+
 ├── main.py # Entry point (menus & flow)
+
 ├── library.py # Core logic (services)
+
 ├── database.py # Database operations
+
 ├── recommender.py # ML recommendation system
+
 ├── library.db # SQLite database (auto-created)
+
 └── README.md
 
 ---
